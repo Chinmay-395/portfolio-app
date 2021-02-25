@@ -11,7 +11,7 @@ const data_projects = [
     image: smart_spoon,
     deployed_url: "https://github.com/Chinmay-395/IOT-PROJECT",
     github_url: "https://github.com/Chinmay-395/IOT-PROJECT",
-    category: ["C++"],
+    category: ["C++", "IOT"],
   },
   {
     name: "Sepsis Diagnostic System",
@@ -25,7 +25,7 @@ const data_projects = [
     image: taxi_app,
     deployed_url: "https://github.com/Chinmay-395/Ride-Hailing",
     github_url: "https://github.com/Chinmay-395/Ride-Hailing",
-    category: ["react.js", "django", "websocket"],
+    category: ["react.js", "django", "postgres", "websocket"],
   },
   {
     name: "Realtime Chat App",
@@ -39,7 +39,7 @@ const data_projects = [
     image: blogapp,
     deployed_url: "https://github.com/Chinmay-395/Medium-Blog-Clone",
     github_url: "https://github.com/Chinmay-395/Medium-Blog-Clone",
-    category: ["node", "websocket", "django", "react.js"],
+    category: ["django", "react.js"],
   },
   // {
   //   name: "Ecommerce-Website",
@@ -52,7 +52,7 @@ const data_projects = [
     name: "Zoom Clone",
     image: hardware_store,
     deployed_url: "!#",
-    category: ["nodejs", "javascript", "WebRTC"],
+    category: ["node.js", "WebRTC"],
   },
   // {
   //   name: "Slack Clone",
