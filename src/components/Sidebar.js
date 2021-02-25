@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import stackoverflow from "../assets/icons/stackoverflow.svg";
 import codesandbox from "../assets/icons/codesandbox.svg";
 import upwork from "../assets/icons/upwork-icon.svg";
@@ -8,9 +7,8 @@ import linkedin from "../assets/icons/linkedin.svg";
 import github from "../assets/icons/github.svg";
 import pin from "../assets/icons/pin.svg";
 import tie from "../assets/icons/tie.svg";
-import mightycoder from "../assets/mightycoder.svg";
 import portfolio from "../assets/portfolio-image.png";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/portfolio_resume.pdf";
 import { motion } from "framer-motion";
 
 const Sidebar = () => {
