@@ -210,6 +210,19 @@ a:hover {
   padding-top: 5px;
 }
 
+.custom_resume {
+  overflow-y: scroll;
+  height: 90%;
+}
+#internal_scrollbar {
+  overflow-y: hidden;
+  height: 100%;
+}
+#overflow_check {
+  overflow-y: scroll;
+  height: 85%;
+}
+
 /* bar */
 .bar {
   width: 90%;
